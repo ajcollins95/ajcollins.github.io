@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0df426a9.css",
+    "main.js": "/static/js/main.bacc53a2.js",
+    "static/media/SourceCodePro-VariableFont_wght.ttf": "/static/media/SourceCodePro-VariableFont_wght.9ef76af760ad69c7256d.ttf",
+    "static/media/mine.svg": "/static/media/mine.ffd9a0e9c6a18ee8ced7b26742f7b288.svg",
+    "static/media/flag.svg": "/static/media/flag.676085df5a09673ea567abc0a6393a0a.svg",
+    "index.html": "/index.html",
+    "main.0df426a9.css.map": "/static/css/main.0df426a9.css.map",
+    "main.bacc53a2.js.map": "/static/js/main.bacc53a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df426a9.css",
+    "static/js/main.bacc53a2.js"
+  ]
+}
